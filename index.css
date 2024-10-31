@@ -143,6 +143,14 @@ p {
     .p-container {
         max-width: 100%;
     }
+    .p1 {
+        font-size: 2rem;
+    }
+
+    .p2 {
+        font-size: 0.8rem;
+    }
+    
 }
 
 .logo {
