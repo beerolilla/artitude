@@ -195,10 +195,6 @@ h2 {
     display: flex;
     align-items: flex-start;
     color: #fafbf1;
-    max-width: 1224px;
-    width: 90%;
-    margin: auto;
-    padding: 40px 0;
     }
 
 .Szani {
@@ -355,10 +351,6 @@ h2 {
         align-items: flex-start;
         padding-right: 3rem;
         background-color: #f0f1e3;
-        max-width: 1224px;
-        width: 90%;
-        margin: auto;
-        padding: 40px 0;
      }
 
      .bemutatkozas {
