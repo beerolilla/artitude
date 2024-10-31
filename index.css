@@ -137,21 +137,13 @@ p {
     .hatter {
         max-width: 100%;
         margin-right: 0;
-        margin-bottom: 20px;
     }
 
     .p-container {
         display: none;
-    }
-    #rolunk {
-        flex-direction: column;
-        text-align: center;
-    }
 
     .Szani {
-        max-width: 100%;
-        margin-right: 0;
-        margin-bottom: 20px;
+        display: none;
     }
 
     .bemutatkozas {
