@@ -129,6 +129,20 @@ p {
         margin: 10px 0;
     }
 
+    .headresz {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hatter {
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .p-container {
+        max-width: 100%;
+    }
 }
 
 .logo {
@@ -142,10 +156,11 @@ p {
 
 .hatter{
     background-position: center;
-    height: 78vh;
     padding-top: 0px;
     margin-top: 0px;
     margin-right: 20px;
+    max-width: 50%;
+    height: auto;
 }
 
 h3 {
@@ -340,12 +355,15 @@ h2 {
 
      .p-container {
         padding-top: 4rem;
-        flex-direction: column;   
+        flex-direction: column;
+        max-width: 50%;
     }
 
      .headresz {
         display: flex;
-        align-items: flex-start;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
         padding-right: 3rem;
         background-color: #f0f1e3;
      }
