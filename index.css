@@ -98,7 +98,7 @@ p {
         top: 60px;
         gap: 0;
         flex-direction: column;
-        background-color: rgba(250,248,245,0.8); 
+        background-color: background-color: rgba(51, 54, 48, 0.8); 
         width: 100%;
         text-align: center;
         transition: 0.3;
@@ -412,4 +412,3 @@ h2 {
         animation-timeline: view();
         animation-range: entry 0% cover 35%;
     }
-    
